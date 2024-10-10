@@ -1,4 +1,5 @@
-import random
+# adding the random library to fix the magic8 issue.
+import random 
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
